@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="300mm"
+   viewBox="0 0 600 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="logo-inkscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">トヴワタ ロゴ</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.358"
+     inkscape:cx="1.11e+03"
+     inkscape:cy="666"
+     inkscape:window-width="1203"
+     inkscape:window-height="745"
+     inkscape:window-x="155"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient19"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#5532ff;stop-opacity:1;"
+         offset="0"
+         id="stop18" />
+      <stop
+         style="stop-color:#0a0032;stop-opacity:1;"
+         offset="1"
+         id="stop19" />
+    </linearGradient>
+    <rect
+       x="971"
+       y="417"
+       width="1.35e+03"
+       height="472"
+       id="rect45" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Silhouette"
+       id="filter36"
+       x="-0.000413"
+       y="-0.000618"
+       width="1"
+       height="1">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(58,0,125)"
+         result="flood"
+         id="feFlood36" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite"
+         id="feComposite36" />
+      <feGaussianBlur
+         stdDeviation="0.01"
+         id="feGaussianBlur36"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix40" />
+      <feFlood
+         id="feFlood41"
+         flood-opacity="1"
+         flood-color="rgb(58,0,125)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite41"
+         in="flood"
+         in2="fbSourceGraphic"
+         operator="in"
+         result="composite" />
+      <feGaussianBlur
+         id="feGaussianBlur41"
+         stdDeviation="0.01" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Silhouette"
+       id="filter37"
+       x="-0.000414"
+       y="-0.000618"
+       width="1"
+       height="1">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(58,0,125)"
+         result="flood"
+         id="feFlood37" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite"
+         id="feComposite37" />
+      <feGaussianBlur
+         stdDeviation="0.01"
+         id="feGaussianBlur37"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix41" />
+      <feFlood
+         id="feFlood42"
+         flood-opacity="1"
+         flood-color="rgb(58,0,125)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite42"
+         in="flood"
+         in2="fbSourceGraphic"
+         operator="in"
+         result="composite" />
+      <feGaussianBlur
+         id="feGaussianBlur42"
+         stdDeviation="0.01" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Silhouette"
+       id="filter40"
+       x="-0.0679"
+       y="-0.00979"
+       width="1.13"
+       height="1.01">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(58,0,125)"
+         result="flood"
+         id="feFlood40" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite"
+         id="feComposite40" />
+      <feGaussianBlur
+         stdDeviation="0.01"
+         id="feGaussianBlur40"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix44" />
+      <feFlood
+         id="feFlood45"
+         flood-opacity="1"
+         flood-color="rgb(58,0,125)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite45"
+         in="flood"
+         in2="fbSourceGraphic"
+         operator="in"
+         result="composite" />
+      <feGaussianBlur
+         id="feGaussianBlur45"
+         stdDeviation="0.01" />
+    </filter>
+    <rect
+       x="971"
+       y="417"
+       width="1350"
+       height="472"
+       id="rect45-6" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter14"
+       x="-0.618"
+       y="-0.618"
+       width="2.24"
+       height="2.24">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="31.8"
+         id="feGaussianBlur14" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19"
+       id="linearGradient15"
+       x1="1070"
+       y1="600"
+       x2="2150"
+       y2="600"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="ロゴ"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#005000;stroke-width:7;stroke-dasharray:none;stroke-opacity:1"
+       d="m 168,290 c -4,-23 -12,-46 -24,-66 -8,-14 -17,-26 -23,-41 -9,-23 -7,-50 5,-71"
+       id="path4"
+       sodipodi:nodetypes="cssc"
+       transform="matrix(1.1,0,0,1.05,-32.6,-15.8)"
+       mask="none"
+       inkscape:original-d="m 168,290 c 5,-21 -30,-46 -24,-66 6,-20 -30,-13 -23,-41 7,-23 7,-44 5,-71"
+       inkscape:path-effect="#path-effect4"
+       inkscape:label="茎" />
+    <path
+       style="fill:#004b00;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 145,296 c 7,-21 -20,-43 -37,-56 -12.2,-10 -27.7,-16 -42.8,-17 -11.8,-1 -35,7 -35,7 0,0 25.8,8 38.2,13 9.6,5 19.6,9 28.1,15 14.5,12 20.5,36 36.5,42 4,1 11,1 12,-4 z"
+       id="path3"
+       sodipodi:nodetypes="aaacaaaa"
+       transform="matrix(1.29,0,0,1.05,-39,-14)"
+       mask="none"
+       inkscape:label="左葉" />
+    <path
+       style="fill:#004600;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 140,296 c -7,-21 20,-43 37,-56 12,-10 28,-16 43,-17 12,-1 35,7 35,7 0,0 -26,8 -38,13 -10,5 -20,9 -29,15 -14,12 -20,36 -36,42 -4,1 -11,1 -12,-4 z"
+       id="path3-2"
+       sodipodi:nodetypes="aaacaaaa"
+       transform="matrix(1.33,0,0,1.05,-39.6,-14)"
+       mask="none"
+       inkscape:label="右葉" />
+    <circle
+       style="display:inline;mix-blend-mode:normal;fill:#ffff56;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter14)"
+       id="path1-3"
+       cx="134"
+       cy="79.4"
+       r="61.7"
+       transform="matrix(0.839,0,0,0.889,17.5,8.2)"
+       mask="none"
+       inkscape:label="光" />
+    <ellipse
+       style="display:inline;mix-blend-mode:normal;fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       cx="131"
+       cy="78.2"
+       mask="none"
+       rx="61.7"
+       ry="57.9"
+       inkscape:label="綿毛" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="テキスト"
+     style="display:inline">
+    <path
+       style="font-size:302.418px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, Normal';white-space:pre;fill:url(#linearGradient15);stroke-width:0"
+       d="m 1070,484 h 30 v 248 h -30 z m 30,79 130,51 -10,33 -120,-49 z m 400,-90 30,41 -20,9 -30,-42 z m 40,-11 20,41 -20,9 -20,-41 z m -110,18 v 53 h -30 v -53 z m 100,50 v 32 c -10,80 -50,136 -150,176 l -20,-28 c 120,-20 140,-151 140,-151 h -160 v 70 l -30,1 v -99 z m 310,-24 v 30 c 0,92 -60,163 -150,198 l -30,-27 c 70,-14 130,-64 140,-171 h -150 v 78 h -40 V 505 Z m 170,75 c 30,17 80,54 80,54 l -20,23 c 0,0 -40,-30 -80,-56 z m 130,-65 c 0,10 0,20 0,30 -20,75 -90,167 -180,194 -10,3 -20,-24 -20,-24 90,-35 160,-125 160,-173 h -100 l 10,-27 c 40,7 130,0 130,0 z m -90,-33 c 0,0 -60,97 -120,139 0,1 -30,-20 -30,-20 90,-71 110,-130 110,-130 z"
+       id="text45"
+       inkscape:label="日本語表記"
+       transform="matrix(0.37,0,0,0.394,-196,-123)"
+       aria-label="トヴワタ"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccsccccccccsccsscssccccccsscc" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>段風桜（ダンプウザクラ）</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>段風桜（ダンプウザクラ）</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>ja</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/" />
+        <dc:date>2024/05/04</dc:date>
+        <dc:title>トヴワタ ロゴ</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

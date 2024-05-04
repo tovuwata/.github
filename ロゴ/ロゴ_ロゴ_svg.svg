@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="345mm"
+   viewBox="0 0 300 345"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">トヴワタ ロゴ</title>
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter14"
+       x="-0.618"
+       y="-0.618"
+       width="2.24"
+       height="2.24">
+      <feGaussianBlur
+         stdDeviation="31.8"
+         id="feGaussianBlur14" />
+    </filter>
+  </defs>
+  <g
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,43.9)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#005000;stroke-width:7;stroke-dasharray:none;stroke-opacity:1"
+       d="m 168,290 c -4,-23 -12,-46 -24,-66 -8,-14 -17,-26 -23,-41 -9,-23 -7,-50 5,-71"
+       id="path4"
+       transform="matrix(1.1,0,0,1.05,-32.6,-15.8)"
+       mask="none" />
+    <path
+       style="fill:#004b00;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 145,296 c 7,-21 -20,-43 -37,-56 -12.2,-10 -27.7,-16 -42.8,-17 -11.8,-1 -35,7 -35,7 0,0 25.8,8 38.2,13 9.6,5 19.6,9 28.1,15 14.5,12 20.5,36 36.5,42 4,1 11,1 12,-4 z"
+       id="path3"
+       transform="matrix(1.29,0,0,1.05,-39,-14)"
+       mask="none" />
+    <path
+       style="fill:#004600;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 140,296 c -7,-21 20,-43 37,-56 12,-10 28,-16 43,-17 12,-1 35,7 35,7 0,0 -26,8 -38,13 -10,5 -20,9 -29,15 -14,12 -20,36 -36,42 -4,1 -11,1 -12,-4 z"
+       id="path3-2"
+       transform="matrix(1.33,0,0,1.05,-39.6,-14)"
+       mask="none" />
+    <circle
+       style="display:inline;mix-blend-mode:normal;fill:#ffff56;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter14)"
+       id="path1-3"
+       cx="134"
+       cy="79.4"
+       r="61.7"
+       transform="matrix(0.839,0,0,0.889,17.5,8.2)"
+       mask="none" />
+    <ellipse
+       style="display:inline;mix-blend-mode:normal;fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       cx="131"
+       cy="78.2"
+       mask="none"
+       rx="61.7"
+       ry="57.9" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>段風桜（ダンプウザクラ）</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>段風桜（ダンプウザクラ）</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>ja</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/" />
+        <dc:date>2024/05/04</dc:date>
+        <dc:title>トヴワタ ロゴ</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
