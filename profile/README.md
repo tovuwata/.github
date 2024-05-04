@@ -1,6 +1,6 @@
 ![logo](./ロゴ/ロゴ_svg.svg)
 
-[日本語版はこちら](README-ja.md)
+[日本語版はこちら](./README-ja.md)
 
 # Who are we?
 We are a Japanese voluntary association providing internet services.
