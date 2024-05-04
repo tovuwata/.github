@@ -1,4 +1,4 @@
-![logo](./ロゴ/ロゴ_svg.svg)
+![logo](https://raw.githubusercontent.com/tovuwata/.github/main/profile/%E3%83%AD%E3%82%B4/%E3%83%AD%E3%82%B4_svg.svg)
 
 # 私たちは誰？
 私たちはインターネットサービスを提供する日本の任意団体です。
